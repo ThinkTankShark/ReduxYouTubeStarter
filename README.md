@@ -9,7 +9,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 	> git clone git@github.com:ThinkTankShark/ReduxYouTubeStarter.git
-	> cd ReduxSimpleStarter
+	> cd ReduxYouTubeStarter
 	> npm install
 	> npm start
 ```
